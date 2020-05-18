@@ -1,0 +1,12 @@
+C:\Users\Umutk\OneDrive\Masaüstü\Otomasyon\MiniKütüphanem\bin\Debug\MiniKütüphanem.exe.config
+C:\Users\Umutk\OneDrive\Masaüstü\Otomasyon\MiniKütüphanem\bin\Debug\MiniKütüphanem.exe
+C:\Users\Umutk\OneDrive\Masaüstü\Otomasyon\MiniKütüphanem\bin\Debug\MiniKütüphanem.pdb
+C:\Users\Umutk\OneDrive\Masaüstü\Otomasyon\MiniKütüphanem\obj\Debug\MiniKütüphanem.csprojAssemblyReference.cache
+C:\Users\Umutk\OneDrive\Masaüstü\Otomasyon\MiniKütüphanem\obj\Debug\MiniKütüphanem.Add.resources
+C:\Users\Umutk\OneDrive\Masaüstü\Otomasyon\MiniKütüphanem\obj\Debug\MiniKütüphanem.Form1.resources
+C:\Users\Umutk\OneDrive\Masaüstü\Otomasyon\MiniKütüphanem\obj\Debug\MiniKütüphanem.Properties.Resources.resources
+C:\Users\Umutk\OneDrive\Masaüstü\Otomasyon\MiniKütüphanem\obj\Debug\MiniKütüphanem.csproj.GenerateResource.cache
+C:\Users\Umutk\OneDrive\Masaüstü\Otomasyon\MiniKütüphanem\obj\Debug\MiniKütüphanem.csproj.CoreCompileInputs.cache
+C:\Users\Umutk\OneDrive\Masaüstü\Otomasyon\MiniKütüphanem\obj\Debug\MiniKütüphanem.exe
+C:\Users\Umutk\OneDrive\Masaüstü\Otomasyon\MiniKütüphanem\obj\Debug\MiniKütüphanem.pdb
+C:\Users\Umutk\OneDrive\Masaüstü\Otomasyon\MiniKütüphanem\obj\Debug\MiniKütüphanem.frm_Analiz.resources
